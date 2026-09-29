@@ -1,0 +1,20 @@
+# Stat6
+
+> Stat6 is an AI agency in Dubai. We build AI agents and custom software, design AI powered websites and brands, and run AI engine optimisation (GEO, AEO and SEO), GA4 analytics and high ticket marketing for businesses in the UAE, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman, in Arabic and English.
+
+## Services
+- AI powered website design: bilingual English and Arabic sites structured for AI crawlers, with schema, llms.txt and a built in AI concierge.
+- Branding for the AI era: strategy, naming, identity, and entity work so AI models describe the brand correctly.
+- AI agents and custom software: WhatsApp and web chat AI agents in Gulf Arabic and English, agentic workflow automation, RAG knowledge bases, CRM and ERP integration, UAE hosting on request.
+- AI engine optimisation: visibility in ChatGPT, Gemini, Perplexity, Claude, Copilot and Google AI Overviews through generative engine optimisation (GEO), answer engine optimisation (AEO) and technical SEO, with monthly AI share of voice reporting.
+- AI analytics with GA4: server side GA4, Consent Mode v2, AI referral tracking and predictive lead scoring.
+- High ticket marketing with AI: AI audience modelling, creative testing and WhatsApp AI nurture for property, healthcare, luxury and B2B.
+
+## Engagement
+- Six new partners per quarter.
+- Four ways to work together: a standalone audit, a fixed fee launch project (brand and website), an AI agent build with a monthly care plan, and a monthly growth partnership. Every engagement is quoted in writing after a free AI visibility check.
+- Clients own all code, AI agents, prompts, designs, content and accounts.
+
+## Contact
+- Email: hello@stat6.ae
+- Free AI visibility check: https://stat6.ae/#apply
