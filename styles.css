@@ -91,7 +91,7 @@ button { font: inherit; color: inherit; }
 .ear-r { justify-self: end; text-align: right; }
 .ear a { font-weight: 600; text-decoration-color: var(--tomato); text-underline-offset: 3px; }
 .masthead { text-align: center; }
-.mast-word { display: inline-block; margin: 0; white-space: nowrap; font: 400 clamp(88px, 12vw, 200px)/.86 var(--f-display); letter-spacing: -0.045em; user-select: none; }
+.mast-word { display: inline-block; margin: 0; white-space: nowrap; font: 700 clamp(84px, 11.5vw, 190px)/.84 var(--f-logo); letter-spacing: -0.035em; text-transform: uppercase; user-select: none; }   /* same face as the Stat6 logo */
 .mast-word span { display: inline-block; transition: color 250ms, transform 600ms var(--spring); }
 .mast-word span:nth-child(1) { --c: var(--tomato); } .mast-word span:nth-child(2) { --c: var(--sun); } .mast-word span:nth-child(3) { --c: var(--emerald); }
 .mast-word span:nth-child(4) { --c: var(--cobalt); } .mast-word span:nth-child(5) { --c: var(--lilac); }
@@ -628,7 +628,7 @@ body.ready .bubble { opacity: 1; transform: none; }
 @media (max-width: 1080px) {
   .mast-row { grid-template-columns: 1fr; gap: 8px; }
   .ear { display: none; }
-  .mast-word { font-size: clamp(80px, 22vw, 190px); }
+  .mast-word { font-size: clamp(80px, 24vw, 190px); }
   .bento { grid-template-columns: repeat(6, minmax(0, 1fr)); }
   .cell-lead { grid-column: 1 / -1; grid-row: auto; }
   .cell-photo { grid-column: 1 / -1; grid-row: auto; }
